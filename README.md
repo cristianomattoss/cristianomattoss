@@ -34,3 +34,9 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianomattoss&repo=App-Sorteio&theme=tokyonight" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://github.com/cristianomattoss/AppConsumoCombustivel">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianomattoss&repo=AppConsumoCombustivel&theme=tokyonight" />
+  </a>
+</p>
