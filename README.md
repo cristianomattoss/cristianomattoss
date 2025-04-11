@@ -33,4 +33,7 @@
   <a href="https://github.com/cristianomattoss/App-Sorteio">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianomattoss&repo=App-Sorteio&theme=tokyonight" />
   </a>
+  <a href="https://github.com/cristianomattoss/AppBuscaViaCep">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianomattoss&repo=AppBuscaViaCep&theme=tokyonight" />
+  </a>
 </p>
