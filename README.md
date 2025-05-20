@@ -19,18 +19,8 @@
 
 ### 📊 Estatísticas
 
-<p align="left">
-  <img
-    alt="GitHub Stats"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=cristianomattoss&show_icons=true&theme=tokyonight&include_all_commits=true&locale-pt-br"
-  />
-  <img
-    alt="Top Langs"
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianomattoss&layout=compact&theme=tokyonight"
-  />
-</p>
+| <a href="https://github.com/cristianomattoss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianomattoss&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Cristiano's GitHub stats" /></a> | <a href="https://github.com/cristianomattoss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianomattoss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a> |
+| ------------- | ------------- |
 
 ### 📌 Principais repositórios
 
