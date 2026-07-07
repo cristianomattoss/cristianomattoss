@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo ao meu perfil.
 
-<a target="_blank" href="https://www.linkedin.com/in/cristiano-mattoss/" target="_blank">
+<a href="https://www.linkedin.com/in/cristiano-mattoss/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a target="_blank" href="mailto:mateuscmattos@gmail.com">
