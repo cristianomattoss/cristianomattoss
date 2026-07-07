@@ -21,16 +21,16 @@
 
 ### 📊 Estatísticas
 
-| <a href="https://github.com/cristianomattoss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=cristianomattoss&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Cristiano's GitHub stats" /></a> | <a href="https://github.com/cristianomattoss/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristianomattoss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a> |
+| <a href="https://github.com/cristianomattoss/github-readme-stats"><img align="center" src="https://github-readme-stats-navy-sigma-83.vercel.app/api?username=cristianomattoss&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" /></a> | <a href="https://github.com/cristianomattoss/github-readme-stats"><img align="center" src="https://github-readme-stats-navy-sigma-83.vercel.app/api/top-langs/?username=cristianomattoss&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" /></a> |
 | ------------- | ------------- |
 
 ### 📌 Principais repositórios
 
 <p align="left">
   <a href="https://github.com/cristianomattoss/App-Sorteio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianomattoss&repo=App-Sorteio&theme=tokyonight" />
+    <img src="https://github-readme-stats-navy-sigma-83.vercel.app/api/pin/?username=cristianomattoss&repo=App-Sorteio&theme=tokyonight" />
   </a>
   <a href="https://github.com/cristianomattoss/AppBuscaViaCep">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cristianomattoss&repo=AppBuscaViaCep&theme=tokyonight" />
+    <img src="https://github-readme-stats-navy-sigma-83.vercel.app/api/pin/?username=cristianomattoss&repo=AppBuscaViaCep&theme=tokyonight" />
   </a>
 </p>
